@@ -31,12 +31,8 @@ namespace BankAccountTest
         public abstract decimal Credit(decimal amount);
 
         public abstract decimal Debit(decimal amount);
-        public decimal CalculateInterest()
-        {
-             decimal interest = Balance / 100/12;
-             decimal total = interest + Balance;
-            return total;
-        }
+        public abstract decimal CalculateInterest();
+        
 
         public override string ToString()
         {
