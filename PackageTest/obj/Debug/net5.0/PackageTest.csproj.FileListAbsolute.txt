@@ -1,0 +1,16 @@
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Account-Polymorphism\PackageTest\obj\Debug\net5.0\PackageTest.csprojAssemblyReference.cache
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Account-Polymorphism\PackageTest\obj\Debug\net5.0\PackageTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Account-Polymorphism\PackageTest\obj\Debug\net5.0\PackageTest.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Account-Polymorphism\PackageTest\obj\Debug\net5.0\PackageTest.AssemblyInfo.cs
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Account-Polymorphism\PackageTest\obj\Debug\net5.0\PackageTest.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Account-Polymorphism\PackageTest\bin\Debug\net5.0\PackageTest.exe
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Account-Polymorphism\PackageTest\bin\Debug\net5.0\PackageTest.deps.json
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Account-Polymorphism\PackageTest\bin\Debug\net5.0\PackageTest.runtimeconfig.json
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Account-Polymorphism\PackageTest\bin\Debug\net5.0\PackageTest.runtimeconfig.dev.json
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Account-Polymorphism\PackageTest\bin\Debug\net5.0\PackageTest.dll
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Account-Polymorphism\PackageTest\bin\Debug\net5.0\ref\PackageTest.dll
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Account-Polymorphism\PackageTest\bin\Debug\net5.0\PackageTest.pdb
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Account-Polymorphism\PackageTest\obj\Debug\net5.0\PackageTest.dll
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Account-Polymorphism\PackageTest\obj\Debug\net5.0\ref\PackageTest.dll
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Account-Polymorphism\PackageTest\obj\Debug\net5.0\PackageTest.pdb
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Account-Polymorphism\PackageTest\obj\Debug\net5.0\PackageTest.genruntimeconfig.cache

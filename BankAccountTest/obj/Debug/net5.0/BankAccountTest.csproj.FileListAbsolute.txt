@@ -1,0 +1,16 @@
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Account-Polymorphism\BankAccountTest\bin\Debug\net5.0\BankAccountTest.exe
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Account-Polymorphism\BankAccountTest\bin\Debug\net5.0\BankAccountTest.deps.json
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Account-Polymorphism\BankAccountTest\bin\Debug\net5.0\BankAccountTest.runtimeconfig.json
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Account-Polymorphism\BankAccountTest\bin\Debug\net5.0\BankAccountTest.runtimeconfig.dev.json
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Account-Polymorphism\BankAccountTest\bin\Debug\net5.0\BankAccountTest.dll
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Account-Polymorphism\BankAccountTest\bin\Debug\net5.0\ref\BankAccountTest.dll
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Account-Polymorphism\BankAccountTest\bin\Debug\net5.0\BankAccountTest.pdb
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Account-Polymorphism\BankAccountTest\obj\Debug\net5.0\BankAccountTest.csprojAssemblyReference.cache
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Account-Polymorphism\BankAccountTest\obj\Debug\net5.0\BankAccountTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Account-Polymorphism\BankAccountTest\obj\Debug\net5.0\BankAccountTest.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Account-Polymorphism\BankAccountTest\obj\Debug\net5.0\BankAccountTest.AssemblyInfo.cs
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Account-Polymorphism\BankAccountTest\obj\Debug\net5.0\BankAccountTest.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Account-Polymorphism\BankAccountTest\obj\Debug\net5.0\BankAccountTest.dll
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Account-Polymorphism\BankAccountTest\obj\Debug\net5.0\ref\BankAccountTest.dll
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Account-Polymorphism\BankAccountTest\obj\Debug\net5.0\BankAccountTest.pdb
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Account-Polymorphism\BankAccountTest\obj\Debug\net5.0\BankAccountTest.genruntimeconfig.cache
